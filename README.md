@@ -23,7 +23,7 @@
 ### 上記を雑に要約
 - Typescriptをデフォに
 - SCSS/SASSデフォに
-- TSLintとかe2eとか諸々使えるようにする
+- TSLintとかe2eとか諸々使えるようにする
 
 ### yarnについて
 - npmの代わりと思えばいい
