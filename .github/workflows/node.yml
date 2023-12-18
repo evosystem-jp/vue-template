@@ -23,7 +23,7 @@ jobs:
       run: yarn run build
     # Dependabotによるプルリクエストの場合はMergery用のラベルを追加
     - name: Add label
-      uses: actions/github-script@v6
+      uses: actions/github-script@v7
       if: ${{ github.event_name == 'pull_request' && github.actor == 'dependabot[bot]' }}
       with:
         script: |
