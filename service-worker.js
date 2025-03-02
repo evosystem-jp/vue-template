@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.bf2b0fce3e7eb57ebbdcb02df0757e01.js"
+  "precache-manifest.4e7ad01a41eaaee279ac114009aef555.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-template"});
